@@ -125,6 +125,7 @@ docker image build [选项] Dockerfile目录
 
 * -t: 指定镜像name和tag, `-t name:tag`
 * -m: 内存限制, 单位bytes
+* --no-cache: 禁用缓存
 
 dockerfile常用参数:
 

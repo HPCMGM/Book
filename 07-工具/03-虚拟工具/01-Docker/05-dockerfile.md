@@ -10,6 +10,7 @@
 
 ```dockerfile
 FROM scratch   # 基础(空镜像)镜像
+# 此镜像不能pull, 但是能直接拿来用
 ```
 
 ## 2.2 LABEL
@@ -28,7 +29,7 @@ LABEL description="This is description"  # 描述信息
 
 * RUN, 镜像编译时执行
 * ENTRYPOINT, container运行开始时执行
-* CMD, container运行后执行
+* CMD, container运行后执行, 此参数可以作为ENTRYPOINT的变量
 
 示例一
 
