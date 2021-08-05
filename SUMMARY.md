@@ -519,7 +519,7 @@
   - 03-虚拟工具
     - 01 Docker
       * [01-安装](07-工具/03-虚拟工具/01-Docker/01-安装.md)
-      * [02-docker配置](07-工具/03-虚拟工具/01-Docker/02-docker配置.md)
+      * [02-开启api](07-工具/03-虚拟工具/01-Docker/02-开启api.md)
       * [03 Docker Image](07-工具/03-虚拟工具/01-Docker/03-docker-image.md)
       * [04 Docker Container](07-工具/03-虚拟工具/01-Docker/04-docker-container.md)
       * [05 Dockerfile](07-工具/03-虚拟工具/01-Docker/05-dockerfile.md)
@@ -541,6 +541,8 @@
       * [05-网卡配置](07-工具/03-虚拟工具/03-VirtualBox/05-网卡配置.md)
       * [06-共享文件夹](07-工具/03-虚拟工具/03-VirtualBox/06-共享文件夹.md)
       * [20 Vagrant](07-工具/03-虚拟工具/03-VirtualBox/20-Vagrant.md)
+    - [04 Kubernetes](07-工具/03-虚拟工具/04-Kubernetes/README.md)
+      * [01-安装](07-工具/03-虚拟工具/04-Kubernetes/01-安装.md)
     - 10 Vagrant
       * [03 Vagrantfile](07-工具/03-虚拟工具/10-Vagrant/03-Vagrantfile.md)
       * [05-网络映射](07-工具/03-虚拟工具/10-Vagrant/05-网络映射.md)
